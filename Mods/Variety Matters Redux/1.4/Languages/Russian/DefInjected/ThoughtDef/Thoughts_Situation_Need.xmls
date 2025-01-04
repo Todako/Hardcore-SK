@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedFoodVariety.stages.0.label>отсутствие меню</NeedFoodVariety.stages.0.label>
+  <NeedFoodVariety.stages.0.description>Нечего есть. Это сводит меня с ума.</NeedFoodVariety.stages.0.description>
+  <NeedFoodVariety.stages.1.label>отвратительное меню</NeedFoodVariety.stages.1.label>
+  <NeedFoodVariety.stages.1.description>Я больше не могу это есть, пожалуйста, дайте мне что-то другое.</NeedFoodVariety.stages.1.description>
+  <NeedFoodVariety.stages.2.label>никчёмное меню</NeedFoodVariety.stages.2.label>
+  <NeedFoodVariety.stages.2.description>Все та же еда. Мне кажется, что есть насекомых было бы вкуснее.</NeedFoodVariety.stages.2.description>
+  <NeedFoodVariety.stages.3.label>бедное меню</NeedFoodVariety.stages.3.label>
+  <NeedFoodVariety.stages.3.description>Однообразие не дает наслаждаться пищей.</NeedFoodVariety.stages.3.description>
+  <NeedFoodVariety.stages.4.label>скромное меню</NeedFoodVariety.stages.4.label>
+  <NeedFoodVariety.stages.4.description>Еда поддерживает нашу жизнь, но ей не хватает разнообразия.</NeedFoodVariety.stages.4.description>
+  <NeedFoodVariety.stages.5.label>ограниченное меню</NeedFoodVariety.stages.5.label>
+  <NeedFoodVariety.stages.5.description>Еды вдоволь, но хочется больше разнообразия.</NeedFoodVariety.stages.5.description>
+  <NeedFoodVariety.stages.6.label>простое меню</NeedFoodVariety.stages.6.label>
+  <NeedFoodVariety.stages.6.description>У нас достаточно разнообразное меню, чтобы еда не надоедала.</NeedFoodVariety.stages.6.description>
+  <NeedFoodVariety.stages.7.label>хорошее меню</NeedFoodVariety.stages.7.label>
+  <NeedFoodVariety.stages.7.description>Иногда меню удивляет необычной едой.</NeedFoodVariety.stages.7.description>
+  <NeedFoodVariety.stages.8.label>отличное меню</NeedFoodVariety.stages.8.label>
+  <NeedFoodVariety.stages.8.description>Приятное разнообразие пищи.</NeedFoodVariety.stages.8.description>
+  <NeedFoodVariety.stages.9.label>роскошное меню</NeedFoodVariety.stages.9.label>
+  <NeedFoodVariety.stages.9.description>Так много еды, что я теряюсь в выборе.</NeedFoodVariety.stages.9.description>
+  <NeedFoodVariety.stages.10.label>изысканное меню</NeedFoodVariety.stages.10.label>
+  <NeedFoodVariety.stages.10.description>Впечатляющее разнообразие интересной пищи.</NeedFoodVariety.stages.10.description>
+  <NeedFoodVariety.stages.11.label>непревзойденное меню</NeedFoodVariety.stages.11.label>
+  <NeedFoodVariety.stages.11.description>В меню можно найти еду на любой вкус.</NeedFoodVariety.stages.11.description>
+  <NeedFoodVariety.stages.12.label>невероятное меню</NeedFoodVariety.stages.12.label>
+  <NeedFoodVariety.stages.12.description>Не могу поверить, что у нас так много вкусной еды.</NeedFoodVariety.stages.12.description>
+</LanguageData>
